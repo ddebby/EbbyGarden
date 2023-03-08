@@ -1,6 +1,6 @@
-site_name: EbbyNotes # Change this to your site name
-site_description: A cool description of your site
-site_url: http://ddebby.github.io/EbbyGarden/ # Change this to your site URL
+site_name: EbbyGarden # Change this to your site name
+site_description: EbbyGarden
+site_url: http://blog.a-stack.com/EbbyGarden/ #http://ddebby.github.io/EbbyGarden/ # Change this to your site URL
 
 theme:
     name: 'material'
