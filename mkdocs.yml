@@ -4,8 +4,8 @@ site_url: http://ddebby.github.io/EbbyGarden/ # Change this to your site URL
 
 theme:
     name: 'material'
-    logo: assets/meta/favicons.png
-    favicon: assets/meta/favicons.png
+    logo: assets/meta/favicons.svg
+    favicon: assets/meta/favicons.svg
     custom_dir: overrides
     font:
         text: Ubuntu
